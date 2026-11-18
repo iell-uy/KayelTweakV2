@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.KayelTweak" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="android:statusBarColor">@color/bg</item>
+        <item name="android:navigationBarColor">@color/bg</item>
+        <item name="colorPrimary">@color/red</item>
+    </style>
+</resources>
